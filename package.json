@@ -1,0 +1,23 @@
+{
+  "name": "node-red-contrib-tistory",
+  "version": "1.0.0",
+  "description": "Node-RED node for tistory",
+  "main": "node.js",
+  "scripts": {
+    "test": "mocha \"test/**/*_spec.js\" --timeout 3000"
+  },
+  "node-red": {
+    "nodes": {
+      "tistory": "node.js"
+    }
+  },
+  "keywords": [
+    "node-red-contrib-contribgen", 
+    "node-red", 
+    "tistory"
+  ],
+  "devDependencies": {
+    "tistory": "^2.2.2"
+  },
+  "license": "Apache-2.0"
+}
