@@ -1,6 +1,6 @@
 {
   "name": "node-red-contrib-tistory",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Node-RED node for tistory",
   "main": "node.js",
   "scripts": {
@@ -10,6 +10,14 @@
     "nodes": {
       "tistory": "node.js"
     }
+  },
+  "bugs": {
+    "url": "https://github.com/hkjang/node-red-contrib-tistory/issues"
+  },
+  "homepage": "https://github.com/hkjang/node-red-contrib-tistory#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hkjang/node-red-contrib-tistory.git"
   },
   "keywords": [
     "node-red-contrib-contribgen",
